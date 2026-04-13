@@ -62,10 +62,10 @@ Or drag the folder into [vercel.com/new](https://vercel.com/new).
   {
     cost: NumberInt('500'),
     createdAt: ISODate('2026-03-24T20:30:07.450Z'),
-    subscriberUsername: 'AirSir',
-    subscriberEmail: 'arthurvax@gmail.com',
-    subscriberName: 'Arthur Vax',
-    athleteName: 'Alex Johnston'
+    subscriberUsername: 'Test',
+    subscriberEmail: 'test@gmail.com',
+    subscriberName: 'Test',
+    athleteName: 'Alex '
   }
 ]
 ```
