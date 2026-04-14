@@ -2,7 +2,7 @@
 
 > Convert JSON & MongoDB data to Excel instantly — runs entirely in your browser, no server needed.
 
-**Live demo →** [your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+**Live demo →** [your-vercel-url.vercel.app](https://arundidauli.github.io/json-to-excel/)
 
 ---
 
